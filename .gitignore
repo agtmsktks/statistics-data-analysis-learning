@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_metadata/
+
+# 数据文件（大数据不入库，小样本数据集除外）
+*.xlsx
+*.parquet
+*.sqlite
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.log
+~$*
