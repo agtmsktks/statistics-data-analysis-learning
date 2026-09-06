@@ -14,6 +14,7 @@ statistics-data-analysis-learning/
 ├── 04-回归分析/              # 线性回归、多元回归、模型评估
 ├── 05-数据可视化/            # 图表类型选择、可视化实践
 ├── 06-Python数据分析工具/    # NumPy / Pandas / Matplotlib
+├── 07-AI与大模型基础/         # 智能体、上下文、技能
 ├── datasets/               # 练习用数据集
 └── exercises/              # 课后练习
 ```
@@ -46,3 +47,4 @@ git push origin main
 - [ ] 第 04 章 回归分析
 - [ ] 第 05 章 数据可视化
 - [ ] 第 06 章 Python 数据分析工具
+- [ ] 第 07 章 AI 与大模型基础（智能体、上下文、技能）
